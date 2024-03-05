@@ -1,0 +1,20 @@
+Film name is Seven
+ It's director is David Fincher, It lenghts 127 minutes and its budget was 33 million dollars and box office is 327 million dollars
+The film has its investigation completed: true
+Film incomes are 294.0 million dollars+
+
+Film name is Oppenheimer
+ It's director is Christopher Nolan, It lenghts 180 minutes and its budget was 100 million dollars and box office is 1000 million dollars
+The film has good ending: true
+Film incomes are 900.0 million dollars+
+
+Film name is DumbAndDumber
+ It's director is Peter Farrelly, It lenghts 106 minutes and its budget was 17 million dollars and box office is 247 million dollars
+The film has soundeffects: Funny noise
+Film incomes are 230.0 million dollars+
+
+Film name is John Wick
+ It's director is Chad Stahelski, It lenghts 101 minutes and its budget was 25 million dollars and box office is 80 million dollars
+The film has these speceffects: Explosion
+Film incomes are 55.0 million dollars+
+
